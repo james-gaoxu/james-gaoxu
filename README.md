@@ -18,10 +18,6 @@ I'm a PhD Student at University of North Texas
 <code><img height="20" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
 <code><img height="20" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></code> 
 
-
-| <a href="https://github.com/james-gaoxu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="james-gaoxu's github stats" /></a> | <a href="https://github.com/james-gaoxu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-gaoxu&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 [![james-gaoxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 #### Top Repositories

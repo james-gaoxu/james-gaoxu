@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Modern C++ template][github-sub-title:img]
 <p align="center"><img width="80%" alt="Hello, I'm James. I do Autonomous Driving and Embedded Software" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />

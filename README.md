@@ -28,8 +28,8 @@ I'm a PhD Student at University of North Texas
 [![james-gaoxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/Status-PhD In Progress-yellow) 
-![](https://img.shields.io/badge/-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-blue)
+![](https://img.shields.io/badge/无-聊-yellow) 
+![](https://img.shields.io/badge/看-书-red) 
+![](https://img.shields.io/badge/爱-二次元-blue)
 
 </div>

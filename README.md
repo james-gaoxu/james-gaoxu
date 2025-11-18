@@ -33,6 +33,6 @@ I'm a PhD Student at University of North Texas
 
 </div>
 
-![头像](image/panda.jpg)
+![头像](images/panda.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/james-gaoxu/count.svg)

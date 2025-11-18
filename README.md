@@ -12,11 +12,11 @@ I'm a PhD Student at University of North Texas
 
 **About me**
 
-- 💼 PhD student at [UNT](https://www.unt.edu/index.html)
+- 🎓 PhD student at [UNT](https://www.unt.edu/index.html)
 
-- 📈 Work on Autonomous Driving with Modern Transformer Perceptron Method focusing on Computer Vision
+- 🚗 Work on Autonomous Driving with Modern Transformer Perceptron Method focusing on Computer Vision
 
-- ❤️ I like to replicate fun projects related to embedded system from hardware design to firmware building
+- 💻 I like to replicate fun projects related to embedded system from hardware design to firmware building
 
 <code><img height="20" alt="Python" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"></code>
 <code><img height="20" alt="Pytorch" src="https://www.clipartmax.com/png/middle/476-4769276_pytorch-logo-png.png"></code>

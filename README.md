@@ -34,5 +34,8 @@ I'm a PhD Student at University of North Texas
 
 ![IconImage](images/panda.jpg)
 
-![Visitor Count](https://github-visitor-counter-tau.vercel.app/api?username=james-gaoxu)
+<div align="center">
+  ![](https://github-visitor-counter-tau.vercel.app/api?username=james-gaoxu&theme=github_dark)
+</div>
+
 

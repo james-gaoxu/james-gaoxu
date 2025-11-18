@@ -1,4 +1,4 @@
-## Hi there 👋
+## :octocat:
 
 <div align="center">
 

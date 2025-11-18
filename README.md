@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Modern C++ template][github-sub-title:img]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 <p align="center"><img width="80%" alt="Hello, I'm James. I do Autonomous Driving and Embedded Software" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />

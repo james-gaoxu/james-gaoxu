@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Modern C++ template][github-sub-title:img]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 <p align="center"><img width="80%" alt="Hello, I'm James. I do Autonomous Driving and Embedded Software" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
@@ -23,6 +21,8 @@ I'm a PhD Student at University of North Texas
 
 | <a href="https://github.com/james-gaoxu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="james-gaoxu's github stats" /></a> | <a href="https://github.com/james-gaoxu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-gaoxu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![james-gaoxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 #### Top Repositories
 

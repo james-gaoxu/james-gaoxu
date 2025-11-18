@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/hello_james.svg" width="600"/>
+<img src="images/title.svg" width="600"/>
 
 </div>
 

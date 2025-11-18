@@ -15,24 +15,21 @@ I'm a PhD Student at University of North Texas
 - ❤️ I like to replicate fun projects related to embedded system from hardware design to firmware building
 - 
 <code><img height="20" alt="Python" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"></code>
+<code><img height="20" alt="Pytorch" src="https://www.clipartmax.com/png/middle/476-4769276_pytorch-logo-png.png">
 <code><img height="20" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
-<code><img height="20" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></code> 
+<code><img height="20" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png">
+
+</code> 
+
+<div id="title" align=center>
+
+![Modern C++ template][github-sub-title:img]
 
 [![james-gaoxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-#### Top Repositories
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+![](https://img.shields.io/badge/Status-PhD In Progress-yellow) 
+![](https://img.shields.io/badge/-开朗-red) 
+![](https://img.shields.io/badge/爱好-二次元-blue)
 
-
-<a href="https://github.com/james-gaoxu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-gaoxu&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/james-gaoxu/james-gaoxu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-gaoxu&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/jamesgaoxu/">
-  <img align="right" alt="james-gaoxu | LinkedIn" width="21px" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" />
-</a>
+</div>

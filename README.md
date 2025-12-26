@@ -24,7 +24,7 @@ I'm a PhD Student at University of North Texas
 <code><img height="20" alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png">
 </code> 
 
-[![james-gaoxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+![james-gaoxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-gaoxu&show_icons=true&theme=tokyonight&count_private=true)
 
 ![](https://img.shields.io/badge/无-聊-yellow) 
 ![](https://img.shields.io/badge/看-书-red) 

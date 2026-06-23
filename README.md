@@ -33,7 +33,7 @@ I'm a PhD Student at University of North Texas
 
 ![](https://img.shields.io/badge/无-聊-yellow) 
 ![](https://img.shields.io/badge/看-书-red) 
-![](https://img.shields.io/badge/爱-二次元-blue)
+![](https://img.shields.io/badge/爱-睡-blue)
 
 </div>
 

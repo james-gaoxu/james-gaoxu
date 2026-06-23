@@ -36,10 +36,14 @@ I'm a PhD Student at University of North Texas
 ![](https://img.shields.io/badge/爱-二次元-blue)
 
 </div>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james-gaoxu/james-gaoxu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james-gaoxu/james-gaoxu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/james-gaoxu/james-gaoxu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/james-gaoxu/james-gaoxu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/james-gaoxu/james-gaoxu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/james-gaoxu/james-gaoxu/output/github-contribution-grid-snake.svg">
 </picture>
 
 ![IconImage](images/panda.jpg)
